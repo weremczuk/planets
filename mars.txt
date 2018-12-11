@@ -7,7 +7,7 @@ reveals desolate landscape as dust settles after its arrival on Martian surface.
 
 Hopefully the probe will return some good data.
 
-This line, which is brilliant, has been added to Michael's copy.
+This line, which is brilliant, has been added to Michael's copy. # Not sure if we should keep this
 
 MYTHOLOGY:
 In ancient Roman religion and myth, Mars was the god of war and also an
